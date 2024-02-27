@@ -1,0 +1,17 @@
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\cv1.exe
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\cv1.deps.json
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\cv1.runtimeconfig.json
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\cv1.dll
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\cv1.pdb
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.csproj.AssemblyReference.cache
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.AssemblyInfoInputs.cache
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.AssemblyInfo.cs
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.csproj.CoreCompileInputs.cache
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.dll
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\refint\cv1.dll
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.pdb
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.genruntimeconfig.cache
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\ref\cv1.dll
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\Tonz\RiderProjects\PJP\cv1\cv1\obj\Debug\net6.0\cv1.csproj.CopyComplete

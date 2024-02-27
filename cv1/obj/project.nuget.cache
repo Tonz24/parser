@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkMFBkuDIGm6ULxQ169zAaLBnE/s20XPHIMAv1of4AhYRL9zRqMipvVrU9mFX9PdFgjSGN9A1IzSJ8z6lzhiiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tonz\\RiderProjects\\PJP\\cv1\\cv1\\cv1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tonz\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
