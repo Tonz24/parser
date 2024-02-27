@@ -172,6 +172,7 @@ public static class Program {
                     maxIndex = i;
             }
             
+            
             ScanParentheses(operators, out int openPar, out int closePar);
 
             if (openPar != closePar) {
